@@ -76,21 +76,29 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
 </p> 
+
+![](https://github.com/JUBJIBPIYAPATH/LAB-09/blob/master/001.PNG?raw=true)
+
 * เปลี่ยนชนิดของปากกาเป็นเส้นประ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
 </p> 
+
+![](https://github.com/JUBJIBPIYAPATH/LAB-09/blob/master/002.PNG?raw=true)
 
 * ใช้ Pen ร่วมกับ Brush  
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-8.png">
 </p> 
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-09/blob/master/003.PNG?raw=true)
+
 * ใช้ Pen ร่วมกับ HatchBrush  เพื่อสร้างลายเส้นแบบต่างๆ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-9.png">
 </p> 
  
+ ![](https://github.com/JUBJIBPIYAPATH/LAB-09/blob/master/004.PNG?raw=true)
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
